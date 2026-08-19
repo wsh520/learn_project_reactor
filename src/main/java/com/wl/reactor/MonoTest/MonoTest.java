@@ -1,4 +1,4 @@
-package com.wl.reactor.MomoTest;
+package com.wl.reactor.MonoTest;
 
 import reactor.core.Disposable;
 import reactor.core.publisher.Flux;
@@ -7,7 +7,7 @@ import reactor.core.scheduler.Schedulers;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicReference;
 
-public class MomoTest {
+public class MonoTest {
 
 
     public static void main(String[] args) throws InterruptedException {
